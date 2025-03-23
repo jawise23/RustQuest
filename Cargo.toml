@@ -1,11 +1,11 @@
 [package]
-name = "ci-cd-demo"
+name = "RustQuest"
 version = "0.1.0"
 edition = "2024"
-description = "A simple Rust template with CI/CD"
+description = "My new Rust project"
 license = "MIT"
 authors = ["James Wise <jawise23@users.noreply.github.com>"]
-repository = "https://github.com/jawise23/ci-cd-demo"
+repository = "https://github.com/jawise23/RustQuest"
 readme = "README.md"
 keywords = ["rust", "ci", "template"]
 categories = ["development-tools", "templates"]
